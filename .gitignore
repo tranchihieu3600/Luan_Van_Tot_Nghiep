@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# AI models
+models/
+tensorboard/
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Dataset / images lớn
+Data/
+images/
+
+# Zip / file nặng
+*.zip
+*.tar
+*.tar.gz
+
+# System
+.DS_Store
+Thumbs.db
