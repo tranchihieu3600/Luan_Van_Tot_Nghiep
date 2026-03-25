@@ -19,6 +19,7 @@ tensorboard/
 # Dataset / images lớn
 Data/
 images/
+Data_END/
 
 # Zip / file nặng
 *.zip
