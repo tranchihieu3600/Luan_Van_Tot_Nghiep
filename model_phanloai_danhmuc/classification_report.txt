@@ -1,0 +1,25 @@
+BÁO CÁO CHẤT LƯỢNG PHÂN LOẠI (CLASSIFICATION REPORT)
+============================================================
+                          precision    recall  f1-score   support
+
+    Công Nghệ & Điện Máy       0.99      0.99      0.99      3000
+                Giáo Dục       0.99      1.00      0.99      3000
+                Giải Trí       1.00      0.99      0.99      3000
+  Hành Chính & Công Cộng       0.99      1.00      0.99      3000
+           Làm Đẹp & Spa       1.00      1.00      1.00      3000
+                 Lưu Trú       0.99      1.00      0.99      3000
+                 Mua Sắm       0.99      0.99      0.99      3000
+     Nông Nghiệp & Thú Y       1.00      1.00      1.00      3000
+      Siêu Thị & Tạp Hóa       1.00      0.99      1.00      3000
+Tài Chính & Doanh Nghiệp       1.00      0.99      0.99      3000
+                Tôn Giáo       0.99      1.00      0.99      3000
+       Vận Tải & Kho Bãi       0.99      0.99      0.99      3000
+     Xe Cộ & Phương Tiện       1.00      0.99      0.99      3000
+     Xây Dựng & Nội Thất       0.99      1.00      0.99      3000
+         Y Tế & Sức Khỏe       1.00      0.99      0.99      3000
+                 Đồ Uống       1.00      1.00      1.00      3000
+                 Ẩm Thực       1.00      1.00      1.00      3000
+
+                accuracy                           0.99     51000
+               macro avg       0.99      0.99      0.99     51000
+            weighted avg       0.99      0.99      0.99     51000
